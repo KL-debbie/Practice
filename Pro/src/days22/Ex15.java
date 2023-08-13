@@ -27,7 +27,7 @@ public class Ex15 {
 			int n = rnd.nextInt(45)+1;
 			lotto.add(n);
 		} //while
-		
+		//에러ㅗ로ㅗ로로롤
 	}
 
 }
