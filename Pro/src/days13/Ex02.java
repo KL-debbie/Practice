@@ -1,4 +1,4 @@
-package days13;
+ package days13;
 
 import java.util.Random;
 import java.util.Scanner;
