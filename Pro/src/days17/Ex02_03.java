@@ -42,5 +42,6 @@ public class Ex02_03 {
 			
 			e.printStackTrace();
 		} 
+		//갸로록로로록
 	} // main
 }//class
